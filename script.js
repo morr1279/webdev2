@@ -39,6 +39,7 @@ L.geoJson(airports, {
 // Use airport.png image file
 
 //Add some GeoJSON
+/* code below this line was found from youtube video https://www.youtube.com/watch?v=_vOojNn72NY  */
 
 var airports = new L.Icon({iconUrl: 'images/marker-icon.png'});
 
